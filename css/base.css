@@ -1,0 +1,21 @@
+root { 
+    display: block;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:link {/* unvisited link */
+    color:#000000;
+}
+a:visited {/* visited link */
+    color:#000000;
+}
+a:hover {/* mouse over link */
+    color:#0000FF;
+    text-decoration:underline;
+;}
+a:active {/* selected link */
+    color:#000000;
+}  
